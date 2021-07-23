@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="cacheAlgorithm/src/main/java"/>
+	<classpathentry kind="src" path="cacheAlgorithm/src/main/test"/>
+	<classpathentry kind="src" path="CacheUnitClient/src/main/java"/>
+	<classpathentry kind="src" path="CacheUnitProject/src/main/java"/>
+	<classpathentry kind="src" path="CacheUnitProject/src/main/test"/>
+	<classpathentry kind="lib" path="cacheAlgorithm/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="cacheAlgorithm/lib/junit.jar"/>
+	<classpathentry kind="lib" path="CacheUnitClient/lib/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="CacheUnitProject/lib/CacheAlgo.jar"/>
+	<classpathentry kind="lib" path="CacheUnitProject/lib/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="CacheUnitProject/lib/junit-4.12.jar"/>
+	<classpathentry kind="output" path="CacheUnitClient/bin"/>
+</classpath>
